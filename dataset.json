@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for North Carolina. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in North Carolina, US",
-  "export_job_id": "38019938-cac9-4a96-ba25-2a284d5ef139",
+  "export_job_id": "71b2cc83-3a47-418a-8c0a-6f355c3e0be5",
   "github_org": "Beamstation-Datasets",
   "id_short": 920981,
   "location_name": "North Carolina",
   "location_type": "state",
   "repo_name": "all-restaurants-in-north-carolina-us-sample-920981",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/920981/beamstation_920981_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_pct": 4.93,
+  "sample_pct": 4.97,
   "sample_records": 1000,
-  "sample_sha256": "2b71e4b402357d4ce14c842e1de81c99e455ea170d86bfb83484202a890f0c7b",
-  "sample_size_bytes": 2486774,
-  "total_records": 20302,
-  "updated_at": "2026-04-09T16:53:45.187053+00:00"
+  "sample_sha256": "8dfe6e97bd1c744f5cdca51d923e9365408cda81fe8eba42cb23dfeb3eae9ccc",
+  "sample_size_bytes": 2233341,
+  "total_records": 20126,
+  "updated_at": "2026-04-16T20:07:40.815817+00:00"
 }
