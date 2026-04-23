@@ -1,12 +1,12 @@
 {
-  "export_job_id": "71b2cc83-3a47-418a-8c0a-6f355c3e0be5",
+  "export_job_id": "ece576e3-4e68-4b7d-ba99-863bf5e9fa48",
   "id_short": 920981,
-  "published_at": "2026-04-19T19:42:18Z",
+  "published_at": "2026-04-23T19:51:41Z",
   "repo_name": "all-restaurants-in-north-carolina-us-sample-920981",
   "sample_asset_name": "beamstation_920981_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/920981/beamstation_920981_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "8dfe6e97bd1c744f5cdca51d923e9365408cda81fe8eba42cb23dfeb3eae9ccc",
-  "sample_size_bytes": 2233341,
-  "total_records": 20126
+  "sample_sha256": "5ee48499b7e882a7079fd9460b46fd4b48694c509b094aa29fb88862498bec21",
+  "sample_size_bytes": 2809024,
+  "total_records": 11975
 }
