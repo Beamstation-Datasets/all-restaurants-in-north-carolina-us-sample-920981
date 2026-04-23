@@ -9,9 +9,9 @@
 | Dataset ID | `920981` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 20,126 records |
-| Free sample size | 1,000 records (4.97%) |
-| Last export | 2026-04-16T20:07:40.815817+00:00 |
+| Full dataset size | 11,975 records |
+| Free sample size | 1,000 records (8.35%) |
+| Last export | 2026-04-23T15:42:43.341776+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-north-carolina-us-sample-920981/releases/download/sample-latest/beamstation_920981_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
